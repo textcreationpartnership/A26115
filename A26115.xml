@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At Amsterdamnable Coffee-House, on the 5th of November next, will be exposed to pu[b]lick sale these goods following, in several parcels</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26115</idno>
+            <idno type="STC">Wing A4096</idno>
+            <idno type="STC">ESTC R9812</idno>
+            <idno type="EEBO-CITATION">11670074</idno>
+            <idno type="OCLC">ocm 11670074</idno>
+            <idno type="VID">48032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48032)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 9:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At Amsterdamnable Coffee-House, on the 5th of November next, will be exposed to pu[b]lick sale these goods following, in several parcels</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>ca. 1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious satire, English.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48032:1" rendition="simple:additions"/>
+            <head>AT Amſterdamnable-COFFEE-HOUSE</head>
+            <head type="sub">On the 5th. of <hi>November</hi> next, will be Expoſed to pulick Sale theſe <hi>Goods</hi> following, in ſeveral parcels.</head>
+            <p>
+               <hi>Lot</hi> 1. THree large Volumes of the D. of Ms. Politiques, valued at three Crowns to advance 3 d. each bidding.</p>
+            <p n="2">2. Two Bundles of the ſaid D. Behaviour, Loyalty and Obedience, in 5 parcels, of ſmall value to advance nothing.</p>
+            <p n="3">3. One <hi>Hobbs Leviathan</hi> with large additions, much ſtudied by the late E of S. in his Retirements, Teaching the reaſonableneſs of Seperation, and laying the foundati<g ref="char:EOLhyphen"/>on of Government in the people, valued above all the Fathers, to advance Atheiſts and Republicans.</p>
+            <p n="4">4. Several Noblemens caſt Suits Fac'd with Loyalty, and Lined with Honeſty, not much the worſe for the wearing, which becauſe they are not in faſhion will be ſold at half the value to advance 6 d. each bidding.</p>
+            <p n="5">5. Two ſpan new Maidenheads ſold by their own mother, for 100 Guinneys, now valued at half the value to advance 2 s. 6 d. each bidding.</p>
+            <p n="6">6. One large inviſible Ring of Sir <hi>Tho. Armſtrongs</hi> Engraven with Crownes and Scepters, with a large Chain of the Mobile to lead a fooll by the Noſe, valued at a Kingdome, as they ſhall find occaſion.</p>
+            <p n="7">7. Six brace of Winding Hornes that were ſent from the K. of <hi>Poland</hi> to his Prin<g ref="char:EOLhyphen"/>cipal Secretaryes of State, <hi>M. Gray, Ruſſel,</hi> and to raiſe the Beagles of the old game, valued at a Generals pay to advance 2000 dogs a piece.</p>
+            <p n="8">8. Two large Waggons of the ſame to be diſtributed among <hi>Armſtrong</hi> and the reſt of the inferiour Mungrels to raiſe the blood ſcented Rabble, to advance a Rebbel each bidding.</p>
+            <p n="9">9. Six Whiggs Sheriff Chains with as many Aldermens of the ſame value 10 advance the ſame rate.</p>
+            <p n="10">10. Two Cabinets of rich Jewels, Beads and Necklaces taken by Sir W. W. for Popiſh Reliques Valued at two thouſand pound, to advance the ſpawn of the Old Rump.</p>
+            <p n="11">11. The Noble Peers Speech, the Appeal, the Raree ſhow, with a large bundle of Seditious Libels, by C. C. and the reſt of the true Proteſtant-Pamphleteers not worth the hanging, to advance the Pillory.</p>
+            <p n="12">12. Three Loyal Votes pipeing hot from the houſe of Commons, One to exclude the lawful Heir, and ſet up a Lawles one, 2. To make the King great by giving him no money, The third for Eſtabliſhing the Church and Monarchy, by ſetting up Preſ<g ref="char:EOLhyphen"/>byttery, valued at the publick good, to advance the Good Old Cauſe.</p>
+            <p n="13">
+               <pb facs="tcp:48032:2"/> 13. Two Narrative Sham-plots of <hi>Tapskies</hi> own invention, as true as Goſpel, valu<g ref="char:EOLhyphen"/>ed at a Poliſh Crown, to advance the Salamanca Dr.</p>
+            <p n="14">14. Twice as many Presbyterian Plots, proved as clear as the Sun, valued at nothing to advance proportionably.</p>
+            <p n="15">15. 6 Brace of Iriſh Maſtiff Evidences in Penſion to carry on the Presbyterian Plott againſt the Papiſts.</p>
+            <p n="16">16. Ten thouſand ſpick and ſpan new Proteſtant Flails, beſides Swan Quills, Gooſe Quill<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Crow Q<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ills to ſettle the Proteſtant Religion, by knocking Monarchy on the Head, valued at the Authors necks, to advance the Proteſtant Joyners.</p>
+            <p n="17">17. Two models of the Aſſociation, from the Cabal, under the pretence of Running Races, to raiſe he Countrey in Arms, valued at half a Crown to advance a Cox<g ref="char:EOLhyphen"/>comb.</p>
+            <p n="18">18. Two Ells of the Aſſociation, valued above ſix Ells of the Covenant, to advance a new Common Wealth.</p>
+            <p n="19">19. Two Sucking Bottles for the Babes of Grace, taken from the Tap head of Re<g ref="char:EOLhyphen"/>formation, by turning the Church into a Conventicle, to advance the Proteſtant Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p n="20">20. An Epidemical Elixir in three Doſes, Proteſtant Religion, Liberty, and Pro<g ref="char:EOLhyphen"/>perty, as an infallible Antidote againſt Popery and Arb<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rary Power, freſh from the ſame Tap, valued at the price of a Scaffold to advance a Traytors head.</p>
+            <p n="21">21. Six pots of round and ſound Proteſtants of the Church of <hi>England,</hi> among whom are <hi>Be.</hi> Dr. <hi>B.</hi> the Author of <hi>Julian</hi> the Apoſtate, the Ignoramus Dr. all valued at ſo many Halters to advance thirteen pence half penny.</p>
+            <p n="22">22. A new Experiment teaching how to avoid the ſtroakes of Juſtice, by cutting ones own throat, valued at the Authors life.</p>
+            <p n="23">23. A Magazeen of <hi>Blunderbuſſes, Muſquets, Piſtols,</hi> and deſigned by a Crew of damned <hi>Rebels,</hi> to make a ſacrifice of Royal <hi>Blood,</hi> valued at the purchaſe of a Sledge to advance them to <hi>Tyburne,</hi> to be drawn, hang'd and quartered <hi>Goodenough</hi> for ſuch Helliſh Traytors.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>At the ſame place you may be furniſhed with a Treatiſe called, <hi>The true Proteſtant Tranſlator,</hi> teaching how to tranſlate <hi>Rome</hi> to <hi>Geneva,</hi> Jeſuits into Phanatiques, Phariſees into Diſſenters, Monarchy into Parity, Order into Confuſion, Unity into Schiſme, Goſpel into Sedition, Light into Darkneſs. Truth into falſhood, Subjects into Soveraigns, Churches into Stables, Palla<g ref="char:EOLhyphen"/>ces into Sayles, and Kings from a temporal Crown to an eternal: Publiſhed by a late Aſſembly of Phariſaical, Hipocritical and ſeditious Whiggs and Covenanters.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
